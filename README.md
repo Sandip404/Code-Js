@@ -1,2 +1,2 @@
 # Code-Js
-Practicing coding for html
+Practicing coding for Javascript 
