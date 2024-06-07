@@ -1,2 +1,2 @@
-# Code-Js
-Practicing coding for Javascript 
+# Code-dev
+Practicing coding for fun
